@@ -1,4 +1,4 @@
-# 基于vant组件的移动端商城——蛋黄商城
+# 基于vant组件的移动端商城
 > 技术栈：
 > Vue全家桶 + vant + leancloud
 >
